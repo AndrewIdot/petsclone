@@ -1,0 +1,10 @@
+velMultipX = 0
+velMultipY = 0
+velAdd = 0.5
+velDec = 0.25
+velLimit = 2.5
+hsp = 0
+vsp = 0
+dir = 1
+inCutsc = 0
+global.penis = "ass"

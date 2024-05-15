@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_sign_temp, image_index, x, y, 2, 2, image_angle, image_blend, image_alpha);
